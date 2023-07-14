@@ -3,6 +3,8 @@
         "donjayamanne.git-extension-pack",
         "wscats.html-snippets",
         "pkief.material-icon-theme",
-        "gydunhn.web-design-essentials"
+        "gydunhn.web-design-essentials",
+        "vscode-icons-team.vscode-icons",
+        "file-icons.file-icons"
     ]
 }
